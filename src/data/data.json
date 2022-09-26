@@ -1,0 +1,135 @@
+{
+  "Header": {
+    "title": "ТОО “KUTAU SP”",
+    "paragraph": "Мы занимаемся чем то..."
+  },
+  "About": {
+    "paragraph": "ТОО “KUTAU SP”, предоставляем множество услуг",
+    "Why": [
+      "Причина 1",
+      "Причина 2",
+      "Причина 3",
+      "Причина 4"
+    ],
+    "Why2": [
+      "Причина 5",
+      "Причина 6",
+      "Причина 7",
+      "Причина 8"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Проект 1",
+      "largeImage": "img/portfolio/submarine.jpg",
+      "smallImage": "img/portfolio/submarine.jpg"
+    },
+    {
+      "title": "Проект 2",
+      "largeImage": "img/portfolio/submarine.jpg",
+      "smallImage": "img/portfolio/submarine.jpg"
+    },
+    {
+      "title": "Проект 3",
+      "largeImage": "img/portfolio/submarine.jpg",
+      "smallImage": "img/portfolio/submarine.jpg"
+    },
+    {
+      "title": "Проект 4",
+      "largeImage": "img/portfolio/submarine.jpg",
+      "smallImage": "img/portfolio/submarine.jpg"
+    },
+    {
+      "title": "Проект 5",
+      "largeImage": "img/portfolio/submarine.jpg",
+      "smallImage": "img/portfolio/submarine.jpg"
+    },
+    {
+      "title": "Проект 6",
+      "largeImage": "img/portfolio/submarine.jpg",
+      "smallImage": "img/portfolio/submarine.jpg"
+    },
+    {
+      "title": "Проект 7",
+      "largeImage": "img/portfolio/submarine.jpg",
+      "smallImage": "img/portfolio/submarine.jpg"
+    },
+    {
+      "title": "Проект 8",
+      "largeImage": "img/portfolio/submarine.jpg",
+      "smallImage": "img/portfolio/submarine.jpg"
+    },
+    {
+      "title": "Проект 9",
+      "largeImage": "img/portfolio/submarine.jpg",
+      "smallImage": "img/portfolio/submarine.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-ship",
+      "name": "Услуга 1",
+      "text": "Очень полезная услуга"
+    },
+    {
+      "icon": "fa fa-ship",
+      "name": "Услуга 2",
+      "text": "Очень полезная услуга"
+    },
+    {
+      "icon": "fa fa-ship",
+      "name": "Услуга 3",
+      "text": "Очень полезная услуга"
+    },
+    {
+      "icon": "fa fa-ship",
+      "name": "Услуга 4",
+      "text": "Очень полезная услуга"
+    },
+    {
+      "icon": "fa fa-ship",
+      "name": "Услуга 5",
+      "text": "Очень полезная услуга"
+    },
+    {
+      "icon": "fa fa-ship",
+      "name": "Услуга 6",
+      "text": "Очень полезная услуга"
+    }
+  ],
+ 
+  
+  
+  "Contact": {
+    "address": "050008,  Алматы,  Мынбаева 43",
+    "phone": "+7 701 722 98 72, +7 701 951 38 68",
+    "email": "igor@kutau.kz "
+    
+  },
+  "Features": [
+    {
+      "icon": "fa fa-certificate",
+      "title": "Государственная Лицензия",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "icon": "fa fa-certificate",
+      "title": "Сертификат",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "icon": "fa fa-certificate",
+      "title": "Сертификат",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "icon": "fa fa-certificate",
+      "title": "Приложение к лицензии",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    }
+  ]
+}
